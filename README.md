@@ -25,7 +25,7 @@ Este projeto simula e analisa as vendas de uma loja fictícia utilizando Python.
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seuusuario/analise-vendas-loja.git
+git clone https://github.com/larissadsfo/analise-vendas-loja.git
 cd analise-vendas-loja
 ```
 
